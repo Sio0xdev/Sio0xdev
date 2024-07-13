@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=53F74C&center=true&vCenter=true&random=true&width=435&lines=sio0xdev" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53F74C&random=false&width=435&lines=sio0xdev" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate backend developer from 🇷🇺</h3>
 
 - 🌱 I’m currently learning **Flask, Disnake, Aiogram**
