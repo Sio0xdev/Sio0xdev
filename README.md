@@ -6,6 +6,7 @@
 - ⚡ Fun fact **I like minecraft**
 
 <h3 align="left">Connect with me:</h3>
+https://discord.gg/Kg3htsvqyd
 <p align="left">
 </p>
 
